@@ -499,6 +499,7 @@ var G2 = new Array(150);
     
 function move(){
 
+
         for(i=0;i<150;i++){
         for(j=0;j<72;j++)
             N[i][j]=0; // 0= grey
